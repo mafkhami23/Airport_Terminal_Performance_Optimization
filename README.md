@@ -6,9 +6,4 @@
 Indoor Air Quality Data Analysis is a Python-based project that aims to merge indoor air quality sensor data, perform statistical analysis, generate timeframe plots for each parameter, and detect outliers based on industry thresholds.
 Features
 
-It generates timeframe plots for each parameter to visualize trends over time.
-
-    Merges data from multiple indoor air quality sensors into a single dataset for analysis.
-    Calculates statistical measures (mean, median, standard deviation, correlations) for the sensor data.
-    Generates timeframe plots for each parameter to visualize trends over time.
-    Identifies outliers in the data using industry-defined thresholds.
+![Temp](https://github.com/user-attachments/assets/1d826b8f-fbbf-45fa-8eec-2f03fc84e0ad)
