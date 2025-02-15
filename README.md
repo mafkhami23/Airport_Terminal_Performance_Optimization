@@ -14,7 +14,7 @@ Examined key parameters, including:
 - Noise levels
 - Light intensity
 - Sound levels
-    Identified outliers and trends using statistical methods.
+Identified outliers and trends using statistical methods.
 
 
 ![Temp](https://github.com/user-attachments/assets/1d826b8f-fbbf-45fa-8eec-2f03fc84e0ad)
