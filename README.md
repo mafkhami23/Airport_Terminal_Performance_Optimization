@@ -10,10 +10,10 @@ Analyzed air quality in nine different spaces within a three-story office buildi
 Processed and cleaned sensor data to ensure accuracy.
 Examined key parameters, including:
 - CO₂ levels
-        Temperature
-        Noise levels
-        Light intensity
-        Sound levels
+- Temperature
+- Noise levels
+- Light intensity
+- Sound levels
     Identified outliers and trends using statistical methods.
 
 
