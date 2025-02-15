@@ -9,7 +9,7 @@ This Python-based project analyzes indoor air quality sensor data by merging dat
 Analyzed air quality in nine different spaces within a three-story office building to understand variations throughout the day.
 Processed and cleaned sensor data to ensure accuracy.
 Examined key parameters, including:
-        CO₂ levels
+- CO₂ levels
         Temperature
         Noise levels
         Light intensity
