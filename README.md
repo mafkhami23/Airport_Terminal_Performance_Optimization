@@ -13,7 +13,7 @@ Examined key parameters, including:
 - Temperature
 - Noise levels
 - Light intensity
-- Sound levels
+- Sound levels</br>
   Identified outliers and trends using statistical methods.
 
 
