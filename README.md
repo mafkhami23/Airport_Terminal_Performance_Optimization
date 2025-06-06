@@ -74,10 +74,10 @@ While journey mapping addressed emotional and cognitive load, we also investigat
 ![CO2_1](CO2_1.png)
 
 #### Temperature Fluctuation  
-![Temp](Temp.png)
+![Temp](https://github.com/user-attachments/assets/1d826b8f-fbbf-45fa-8eec-2f03fc84e0ad)
 
 #### CO₂ Radar View  
-![CO2_Radar](CO2_Radar.png)
+![CO2_Radar](https://github.com/user-attachments/assets/041e5ad5-2df4-4f4b-9bbb-b87f8803a08a)
 
 > These IAQ findings were triangulated with passenger behavioral maps to uncover “comfort deserts” in the terminal—spaces with both cognitive and physiological friction.
 
@@ -107,9 +107,11 @@ This project illustrates:
 ## 📎 Final Takeaway  
 
 Designing great experiences starts with understanding people—how they think, feel, move, and breathe in a space. This project demonstrates how **integrated design research** can move beyond assumptions and into measurable outcomes. I bring this same **strategic, human-centered mindset** to every research challenge—and I’m excited to continue applying it in new contexts like financial services.
+## 📚 Publications & References
+
+![Mapping the Airport Experience](https://www.corgan.com/news-insights/2024/mapping-the-airport-experience)
 
 
-![Temp](https://github.com/user-attachments/assets/1d826b8f-fbbf-45fa-8eec-2f03fc84e0ad)
 
-In the next step, the values that exceeds the standard thresholds were idenitfied and graphed out for better visualization 
-![CO2_Radar](https://github.com/user-attachments/assets/041e5ad5-2df4-4f4b-9bbb-b87f8803a08a)
+
+
