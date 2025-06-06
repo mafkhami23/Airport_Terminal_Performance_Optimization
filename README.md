@@ -70,9 +70,6 @@ While journey mapping addressed emotional and cognitive load, we also investigat
 
 ### 📈 Visual Highlights  
 
-#### CO₂ Levels Over Time  
-![CO2_1](CO2_1.png)
-
 #### Temperature Fluctuation  
 ![Temp](https://github.com/user-attachments/assets/1d826b8f-fbbf-45fa-8eec-2f03fc84e0ad)
 
