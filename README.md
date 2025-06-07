@@ -7,8 +7,6 @@
 
 Airports are emotionally and physically complex environments. This project explores the **full spectrum of passenger experience**—from the emotional journey of navigating a terminal to the physiological effects of indoor air quality (IAQ) on comfort and performance. The research was conducted as part of the Ontario International Airport Authority (ONT)’s Experiential Objectives Analysis (EOA).
 
-> 🧩 This project exemplifies how **mixed-methods research**, **behavioral science**, and **data analytics** combine to improve human experience and drive **business-aligned design decisions**—the exact mandate of Capital One’s Experience Design Research team.
-
 
 ## 👣 Research Objectives  
 
