@@ -104,7 +104,7 @@ This project illustrates:
 Designing great experiences starts with understanding people—how they think, feel, move, and breathe in a space. This project demonstrates how **integrated design research** can move beyond assumptions and into measurable outcomes. I bring this same **strategic, human-centered mindset** to every research challenge—and I’m excited to continue applying it in new contexts like financial services.
 ## 📚 Publications & References
 
-![Mapping the Airport Experience](https://www.corgan.com/news-insights/2024/mapping-the-airport-experience)
+![Mapping the Airport Experience]([https://www.corgan.com/news-insights/2024/mapping-the-airport-experience](https://www.corgan.com/news-insights/2024/mapping-the-airport-experience))
 
 
 
