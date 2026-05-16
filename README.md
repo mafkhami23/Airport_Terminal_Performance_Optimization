@@ -87,8 +87,6 @@ While journey mapping addressed emotional and cognitive load, we also investigat
 
 ---
 
-## 🧩 Relevance to Capital One Design Research  
-
 This project illustrates:
 
 - Leading **end-to-end primary research** (qual & quant)  
